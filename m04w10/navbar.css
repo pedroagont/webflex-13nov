@@ -17,6 +17,10 @@
   font-size: 1.5em;
 }
 
+.navbar-burger {
+  display: none;
+}
+
 .navbar-menu {
   list-style: none;
   width: 70%;
